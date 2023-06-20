@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+
+thead{
+	color:white;
+	background-color:black;
+}
